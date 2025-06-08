@@ -1,0 +1,7 @@
+# create file -> npm init -y
+# npm i 
+#run -> node file_name.js
+# run with update code not need to again run -> npx nodemon app.js 
+# npm i ejs => readering html file 
+# middleware third pary -> npm i morgan
+# mongodb connection -> npm i mongoose
